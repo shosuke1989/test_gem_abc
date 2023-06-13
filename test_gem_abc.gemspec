@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["shosuke1989"]
   spec.email = ["shosuke.k.1989@googlemail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
+  spec.summary = "テストのgemです"
+  spec.description = "gemの練習をします"
   spec.homepage = "https://github.com/shosuke1989/test-gem-abc"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
